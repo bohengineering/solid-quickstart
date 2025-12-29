@@ -7,9 +7,12 @@ export default function Home() {
   return (
     <section
       class="bg-white text-black p-8 rounded-md"
-      style={{ "font-family": "Georgia, 'Times New Roman', serif" }}
+      style={{
+        "font-family":
+          "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif",
+      }}
     >
-      <h2 class="text-2xl font-normal">
+      <h2 class="text-2xl font-semibold tracking-tight lowercase">
         coming soon
       </h2>
 

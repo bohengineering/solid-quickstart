@@ -38,9 +38,4 @@ const App: Component = (props: { children: Element }) => {
       </nav>
       */}
 
-      <main class="max-w-2xl mx-auto h-screen flex flex-col justify-center px-4">
-        <h1
-          class="text-5xl mx-auto mb-8 font-semibold tracking-tight lowercase"
-          style={{
-            "font-family":
-              "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Int
+      <main class="max-w-2xl mx-auto
